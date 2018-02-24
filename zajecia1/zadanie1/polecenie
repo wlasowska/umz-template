@@ -1,0 +1,9 @@
+Wczytaj plik /train/train.tsv
+Policz średnią cenę mieszkań.
+Stwórz plik /dev-0/out.tsv
+Plik ma zawierać dokładnie tyle linii, ile plik /dev-0/in.tsv
+oraz każda linia ma być średnią ceną mieszkań.
+
+
+Będąc w / wykonaj python3 test_my_score.py
+Jeżeli wynik jest dobry, stwórz taki sam plik /test-A/out.tsv
