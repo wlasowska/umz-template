@@ -1,0 +1,8 @@
+Zbuduj model regresji liniowej jednej zmiennej.
+
+Znajdź kolumnę która pozwala na stworzenie modelu, który daje najlepszy wynik.
+W repozytorium umieść rysunek przedstawiający dane, na osi x ma być ta wybrana zmienna niezależna, na osi y cena.
+
+Pamiętaj żeby dla tego zadania i każdego kolejnego umieścić w repozytorium kod źródłowy, plik dev-0/out.tsv oraz plik test-a/out.tsv
+
+30 punktów

@@ -14,7 +14,7 @@ for x, y in zip(expected, out):
 
 rmse = math.sqrt(rmse / len(out))
 
-max_acceptable = 300000
+max_acceptable = 270000
 
 print('twój wynik RMSE to: ', round(rmse, 2))
 print('żeby zaliczyc zadanie powinieneś mieć conajwyżej: ', max_acceptable)
